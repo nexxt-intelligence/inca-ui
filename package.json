@@ -3,7 +3,10 @@
   "version": "3.3.0",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
-  "dependencies": {},
+  "dependencies": {
+    "classnames": "2.2.6",
+    "react-loading": "^2.0.3"
+  },
   "files": [
     "lib"
   ],
