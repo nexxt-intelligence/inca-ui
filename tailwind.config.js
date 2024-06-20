@@ -25,7 +25,10 @@ module.exports = {
         green: { DEFAULT: "#368176" },
       },
       zIndex: {
-        "100": "100",
+        100: "100",
+      },
+      minHeight: {
+        48: "12rem",
       },
     },
   },

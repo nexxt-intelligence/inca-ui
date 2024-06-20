@@ -1,0 +1,14 @@
+.project-status-badge {
+  padding: 3px 20px;
+  display: inline-block;
+  margin: 0 5px;
+  line-height: 18px;
+  border-radius: 40px;
+  font-size: 12px;
+}
+
+.project-status--dev {
+  background-color: #f68685;
+  border: 5px solid #f46e6d;
+  color: #ffffff;
+}

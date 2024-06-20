@@ -20,3 +20,5 @@ export { QuicktagInstanceCard } from "./components/QuicktagInstanceCard";
 export { QuickTagInstanceCardDirectory } from "./components/QuickTagInstanceCardDirectory";
 
 export { Pagination } from "./components/Pagination";
+
+export { Header } from "./components/Header";

@@ -15,7 +15,7 @@ export function MiniModal({ isOpen, isClosable = true, onClose, children }) {
       >
         <div
           // ref={ref}
-          className="inca-ui-bg-white inca-ui-p-5 inca-ui-flex inca-ui-flex-col"
+          className="inca-ui-bg-white inca-ui-p-10 inca-ui-flex inca-ui-flex-col"
         >
           <div className="inca-ui-flex inca-ui-justify-end inca-ui-min-h-6">
             {isClosable ? (
